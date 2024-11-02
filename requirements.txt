@@ -1,0 +1,4 @@
+tk
+networkx
+matplotlib
+sqlite3
